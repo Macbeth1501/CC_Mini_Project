@@ -1,0 +1,3 @@
+# Optional. The tool itself needs only the Python standard library (tkinter ships with Python).
+pillow>=10.0      # PNG export of the CFG
+pytest>=8.0       # the test suite in tests/
